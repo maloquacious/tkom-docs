@@ -13,7 +13,7 @@ Documentation for Dynamic Games' / Peter Read's "The Keys of Medokh."
 The Keys of Medokh is a play-by-mail game created by Rampage.
 There were some issues and ownership transferred to Phildee Enterprises then to Dynamic Games.
 
-:::tip More background...
+:::warning More background...
 
 Read the [Retroscope](http://playbymail.net/Flagship/BackIssues/issue95.pdf) column for a more complete history.
 

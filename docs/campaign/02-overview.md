@@ -171,10 +171,12 @@ In wilderness areas and along hostile borders they are also used as safe
 shelters by travellers and merchant caravans, making them ideal sources
 of useful gossip and rumours.
 
-{% callout type="note" title="Malkahai" %}
+:::note Malkahai
+
 The (computer-controlled) Malkahai, an ancient and mysterious race, also use Great Castles as Fortified Trading Posts.
 These may be found throughout the land.
-{% /callout %}
+
+:::
 
 ### Gem Mines
 GEM MINES are extended Fortifications, erected either on top
@@ -222,9 +224,11 @@ part-time 'Home Guard'. They defend the settlement at which they are based
 and send scouting patrols out to protect the surrounding countryside against
 marauding bandits.
 
-{% callout type="note" title="Mustering" %}
+:::note Mustering
+
 Garrison regiments may be mustered into mobile Field Armies at the Warlord's command.
-{% /callout %}
+
+:::
 
 ### Field Army Regiments
 FIELD ARMY REGIMENTS are also full-time soldiers and will generally

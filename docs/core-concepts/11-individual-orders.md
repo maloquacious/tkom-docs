@@ -208,7 +208,6 @@ To instruct Individual #14 (who must be a Weapons Trainer, Weapons Instructor or
 
 Skill Tactics are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Whirlwind Attack Skill|
@@ -216,7 +215,6 @@ Skill Tactics are:
 |3|Feint Attack Skill|
 |4|Cautious Attack Skill|
 |5|Passive Attack Skill|
-{% /table %}
 
 With the above order you may instruct a Weapons Trainer, Weapons Instructor or Weapons Master to train your Champion
 specifically in a single Tactic Skill, if located in the same Town or City. This will boost the required Skill by around
@@ -265,7 +263,6 @@ RA (Hiring ID#) (Gem Type#) (Gem Amount)
 
 Gem Types are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Pearl|
@@ -275,7 +272,6 @@ Gem Types are:
 |5|Ruby|
 |6|Amber|
 |7|Diamond|
-{% /table %}
 
     Example: RA 297 3 5
 

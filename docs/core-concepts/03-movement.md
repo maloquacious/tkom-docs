@@ -145,7 +145,8 @@ considers whether an army is on a Normal March, Cautious March, Pursuit March, F
 and of course there are Spell Rituals and Magical Artifacts able to make an army very difficult - if not impossible - to
 spot before it's too late .
 
-{% callout type="note" title="Combat Note" %}
+:::note Combat Note
+
 An Army not spotted by an enemy force but large enough to attack if would, in doing so, have a very good
 chance of mounting an AMBUSH. An Ambush occurs automatically in combat situations if the attacking army is not spotted
 until the last minute: if successful, the first round of combat is extremely one-sided, with virtually no casualties
@@ -153,7 +154,8 @@ being taken by the attacker. The resulting losses for the defender, combined wit
 itself, is often sufficient to cause a poorly-trained army to break and rout without putting up much more of a fight.
 Note that dense terrain, high army skill in that terrain, the presence of Trackers, and even the use of magic, can all
 be used to make Ambushes much more likely even with fairly large armies. As is a 'Cautious March'.
-{% /callout %}
+
+:::
 
 ---
 
@@ -200,10 +202,12 @@ scouting ability and makes it significantly more east to spot by rival scouts in
 March is much more likely to run into an AMBUSH if enemy forces are encountered unexpectedly, particularly if the latter
 are on a "Cautious March"!
 
-{% callout type="warning" title="Fatigue" %}
+:::caution Fatigue
+
 Unfortunately, a Forced March also increases an army's fatigue considerably, increasingly so if used on successive turns
 without a break: you have been warned.
-{% /callout %}
+
+:::
 
 ---
 
@@ -270,6 +274,8 @@ An Army's speed (among other things) can be as much as doubled by the presence o
 Trackers, which have the effect of HALVING the Movement Points Cost for an army if marching through relevant Terrain,
 but to a minimum of 2 points cost per hex transversed.
 
-{% callout type="note" title="Master Rangers" %}
+:::note Master Rangers
+
 Note that a "Master Ranger" is an expert Tracker in ALL SIX of the common terrain types.
-{% /callout %}
+
+:::

@@ -58,7 +58,6 @@ precious commodities - the buying and selling (and later perhaps, actual mining?
 no means least, you may also give commodities or gold Crowns to virtually any other tribe in the campaign, earning
 potentially-valuable Influence in doing so. The basic Economic orders available are as follows:
 
-{% table %}
 |Common|ID|Precious|
 |------|-:|--------|
 |Iron|1|Pearls|
@@ -68,7 +67,7 @@ potentially-valuable Influence in doing so. The basic Economic orders available 
 |Wood|5|Rubies|
 |Cloth|6|Amber|
 |Meat|7|Diamonds|
-{% /table %}
+
 Commodity Table
 
 ---
@@ -147,7 +146,6 @@ This will be handed over to Malkahai traders to be passed on, for which they wil
 total value. If you wish you may also send one of a choice of brief messages using the optional fourth parameter of the
 order, from the list below:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|A gift, with no strings attached|
@@ -158,7 +156,6 @@ order, from the list below:
 |6|Payment for goods as agreed|
 |7|Payment for services rendered|
 |8|For services yet to be rendered|
-{% /table %}
 
 Transferring Gold Crowns to another tribe will earn you Influence with the people of the receiving tribe. If sufficient
 Gold is sent it could turn a hostile enemy Neutral, or encourage a neutral kingdom to Parley with you. A Parleying
@@ -166,7 +163,6 @@ kingdom might even be persuaded to declare their Alliance with your people.
 
 You may transfer Gold Crowns to any of the 42 player tribes (ID's 1-42) and also to any of the following:
 
-{% table %}
 |Code|Tribe|
 |---:|-------|
 |43|Malkahai|
@@ -183,7 +179,6 @@ You may transfer Gold Crowns to any of the 42 player tribes (ID's 1-42) and also
 |55|Independent Kobolds|
 |56|Independent Hobbits|
 |57|Babulska|
-{% /table %}
 
 Tribes 44 (Undead Mazdrakians) and 58 (Evil Curazck) may not be transferred Gold Crowns.
 
@@ -208,7 +203,6 @@ Transferring Commodities to another tribe will earn you Influence with the peopl
 
 You may transfer Commodities to any of the 42 player tribes (ID's 1-42) and also to any of the following:
 
-{% table %}
 |Code|Tribe|
 |---:|-------|
 |43|Malkahai|
@@ -225,7 +219,6 @@ You may transfer Commodities to any of the 42 player tribes (ID's 1-42) and also
 |55|Independent Kobolds|
 |56|Independent Hobbits|
 |57|Babulska|
-{% /table %}
 
 Tribes 44 (Undead Mazdrakians) and 58 (Evil Curazck) may not be transferred Commodities.
 
@@ -343,13 +336,11 @@ AB ( Type# ) ( Settlement# )
 
 Types are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Town or City|
 |2|Fort, Gem Mine or Wizard's Tower|
 |3|Shrine|
-{% /table %}
 
     Example A: AB 1 5 ---- To abandon Town/City #5.
 
@@ -440,7 +431,6 @@ RL ( Lore # 11-12 ) ( Gem # 1-7 ) ( Gems )
 
 Lore Types are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Iron Lore|
@@ -455,11 +445,9 @@ Lore Types are:
 |10|Natural Lore|
 |11|Lesser Mysteries|
 |12|Greater Mysteries|
-{% /table %}
 
 Gem Types are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Pearl|
@@ -469,7 +457,6 @@ Gem Types are:
 |5|Ruby|
 |6|Amber|
 |7|Diamond|
-{% /table %}
 
     Example A: RL 6 3000
 
@@ -576,7 +563,6 @@ To Upgrade Wood Lore at Town #1, spending 5,000 Crowns
 
 Lore Types are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Iron Lore|
@@ -586,7 +572,6 @@ Lore Types are:
 |5|Wood Lore|
 |6|Cloth Lore|
 |7|Meat Lore|
-{% /table %}
 
 Every Town and City has a rating between 0-100% for each of the seven Common Commodity Lores. Once the tribal Researched
 Level for a Lore is higher than a Town's corresponding Lore level, the latter may be Upgraded with this UL order.
@@ -650,7 +635,6 @@ To compile 5 copies of a Corn (#3) Manuscript of Knowledge, each one containing 
 
 Lore Types are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Iron Lore|
@@ -665,7 +649,6 @@ Lore Types are:
 |10|Natural Lore|
 |11|Lesser Mysteries|
 |12|Greater Mysteries|
-{% /table %}
 
 Further to the section on the tribal Manuscripts Listing (see page 35), with this order you may Compile 1 or more copies
 of a Manuscript of Knowledge containing tribal Lore up to the current Research Level for such. The first copy requested
@@ -816,13 +799,11 @@ AG (Gov, Type 1-3)
 
 Government Types are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |1|Monarchy|
 |2|Despot|
 |3|Republic|
-{% /table %}
 
     Example: AG 3
 
@@ -841,9 +822,11 @@ the differences in Government style.
 Most Religious/Magic orders have been omitted from this document as they are unable to be used at this stage of the
 campaign. The Rule Compendium itself does, however, contain full details of these aspects of the game.
 
-{% callout type="warning" title="Lies..." %}
+:::danger Lies...
+
 Lies!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-{% /callout %}
+
+:::
 
 ---
 
@@ -863,7 +846,6 @@ Study the order codes above with the Code Key below, for ease of understanding.
 
 Codes are:
 
-{% table %}
 |Code|Meaning|
 |---:|-------|
 |Z|Transfer Mystics|
@@ -871,7 +853,6 @@ Codes are:
 |T|Town or City|
 |F|Fort, Gem Mine, or Wizard's Tower|
 |S|Shrine|
-{% /table %}
 
     Example: ZFA 13 4 25
 

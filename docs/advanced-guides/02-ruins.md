@@ -30,7 +30,6 @@ If there are fewer than seven useful Individuals with the Army in question, it w
 
 In line with all the best fantasy novels a Party should be well balanced for maximum gain, a mixture of warriors (led by the Champion), magic-users, scouts and - ideally, when available - High Priests. Our system reflects this by awarding a % explored to each individual member depending on how useful he personally is to the Party, and how many others of his type there are: a Party consisting entirely of Sorcerers, for example, is nowhere near as effective as a more evenly balanced Party would be, as shown below.
 
-{% table %}
 |PartyExploration|1st|2nd|3rd|4th|5th|
 |----------------|--:|--:|--:|--:|--:|
 |Champion|10%|N/A|N/A|N/A|N/A|
@@ -47,7 +46,6 @@ In line with all the best fantasy novels a Party should be well balanced for max
 |W.Instructor|5%|2%|1%|1%|1%|
 |W.Master|10%|7%|5%|3%|2%|
 |W.Trainer|2%|1%|1%|1%|1%|
-{% /table %}
 
 The ideal Party would therefore consist of (roughly) the Champion, a High Priest, a Master Spy or Assassin, a Master Ranger, two Weapon Masters and two Sorcerers, with a possible Exploration Gain of a massive 72%! However, since it would still take two turns to explore a ruin, drop one of the Individuals in favour of a Healer: an Apothecary, Guild Apothecary or - ideally - a Master Apothecary. While a Party is at much less risk than a horde of regiments, it could still encounter serious threats from time to time, and one or more of the Party might be seriously injured. An Apothecary in the Party might just save the lives of valuable Individuals, even though they cannot themselves explore or aid the Party in any other way.
 

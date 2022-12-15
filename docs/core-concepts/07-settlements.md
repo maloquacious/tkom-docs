@@ -175,10 +175,12 @@ subsequently be fortified further and garrison: maximum fort level of 8.0, with 
 level), a maximum of 20. Fortification bonus in the event of siege is identical to that for towns - a defending
 regiment's strength being equal to its own strength plus its own multiplied by the Fortification level.
 
-{% callout type="warning" title="Blood Guard and Shrines" %}
+:::danger Blood Guard and Shrines
+
 Note that the BLOOD GUARD will tend to literally take over a Shrine if it is not garrisoned to the full extent of its
 fortification level, eventually leaving no room for Garrison troops: give them an inch and they'll take a foot!
-{% /callout %}
+
+:::
 
 Shrines are built for religious purposes only, and serve to focus the Gods' attention upon your people. They can be a
 source of great inspiration, but if your army encounters an enemy's Shrine which is dedicated to a God for whom your

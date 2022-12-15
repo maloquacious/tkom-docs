@@ -28,7 +28,6 @@ be listed as 'copies' more than 1, rather than each have a different ID#. This I
 are referring to in an Order, such as Duplicating, Updating or Advertising For Sale Orders. An example of a tribal
 Manuscripts Listing is shown below:
 
-{% table %}
 |ID|TYPE|LEVEL / REF|COPIES|
 |--|----|----------:|-----:|
 |1|Corn MOK|67|2|
@@ -40,7 +39,7 @@ Manuscripts Listing is shown below:
 |7|Training MOK|13|1|
 |8|Natural MOK|43|2|
 |9|Spell Ritual|178|1|
-{% /table %}
+
 Tribal Manuscript Listing
 
 The difference between Level and Reference is fairly simple: if under Type, the Manuscript is one of the twelve Lore

@@ -57,12 +57,14 @@ otherwise the fight would have already ended with a KO) but suffered more than 3
 to MORE than 135. A Kill is awarded full due points even if your own Champion is KO'd in the deciding Round (collapses
 from own wounds & the effort of swinging that last mighty blow).
 
-{% callout type="note" title="Kills outside the Arena" %}
+:::note Kills outside the Arena
+
 Note that kills outside the Arena (in Champion combat before Army battled)
 earns the victor the basic 8 Rank Points for the kill regardless of the number of Rounds fought:
 the Arena judges have no way of knowing how well (or badly) this was fought, only that the death
 of a League Champion has occurred.
-{% /callout %}
+
+:::
 
 ### KO
 
@@ -84,10 +86,12 @@ damage.
 3. 3 Points each for a Double KO during Round 3
 4. 5 Points each for a Double KO during Round 2
 
-{% callout type="note" title="KOs outside the Arena" %}
+:::note KOs outside the Arena
+
 Note that a Double KO in Champion combat outside the Arena (before Army battles) is the only way that BOTH Champions
 will survive any clash outside the Arena!
-{% /callout %}
+
+:::
 
 ### WIN
 
@@ -161,7 +165,6 @@ There are no League rules preventing Champions from issuing repetitive challenge
 single month, indeed it even seems to be quietly encouraged. To issue a challenge against a specific enemy (or allied!)
 Champion, an Order called Challenge Bout (CB) may be found later.
 
-{% table %}
 | |Code|Description|
 |-|:--:|-----------|
 |RANK|RNK|The League Table lists Champions in order of Ranking, beginning with the top-ranked Malkahai Great Hero, Tabax the Dragonheart, who has never been defeated and who has succeeded in killing every opponent who ever sought to take his crown and become Champion of Champions.|
@@ -200,7 +203,6 @@ Champion, an Order called Challenge Bout (CB) may be found later.
 ||NEW|New entry into the League.|
 |NEW FIGHT|NEW|Shows the current Rank No. of this Champion's opponent next turn.|
 |CHALLENGE MATCH|C|The letter "Y" (Yes) indicates that this Champion issued the challenge for the next fight, while the letter "H" (Him) means that his opponent did. The letter "N" (No) indicates that this fight was arranged by the Arena judges.|
-{% /table %}
 
 As you can see, the League Table contains all the information pertaining to your Champion, as well as useful information
 and the fight records of all potential opponents. It is advised that each turn you should study your next opponent's
@@ -215,7 +217,6 @@ swift and potentially fatal advantage of it.
 Note that Tribal morale in general may be considerably affected by how your Champions account for themselves in the
 Arena of Fire every month, and the Morale Upper Limit of your tribe will also be adjusted accordingly.
 
-{% table %}
 |Combat Damage|Wa|Sa|Fa|Ca|Pa|
 |-------------:|-:|-:|-:|-:|-:|
 |Wa|30|10|5|20|30|
@@ -223,4 +224,3 @@ Arena of Fire every month, and the Morale Upper Limit of your tribe will also be
 |Fa|30|20|15|5|10|
 |Ca|10|5|30|10|20|
 |Pa|5|30|20|10|5|
-{% /table %}
